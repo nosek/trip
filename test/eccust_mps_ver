@@ -1,0 +1,11 @@
+#!/bin/sh
+
+
+ver_eccust_mps_Major="10"
+ver_eccust_mps_Minor="0"
+ver_eccust_mps_PatchLevel="129"
+ver_eccust_mps_TestNumber="27"
+ver_eccust_mps_Name="10.0.129.27"
+ver_eccust_mps_Id="1410078335"
+
+export ver_eccust_mps_Major ver_eccust_mps_Minor ver_eccust_mps_PatchLevel ver_eccust_mps_TestNumber ver_eccust_mps_Name ver_eccust_mps_Id
